@@ -4,11 +4,12 @@
 
 Katalon Maintenance Mode enhances your testing experience by allowing you to:
 
-1. **Update and test element locators while executing tests** and correct their locator during test execution without having to restart the test. This feature is available through `ObjectRepositoryExtensions`.
+1. **Try & update element locators while executing tests** without having to restart the test. This feature is available through `ObjectRepositoryExtensions`.
 2. **Re-execute specific test cases** during execution or jump between test cases using the MaintenanceTestSuiteExecutor.
 
 ---
 ## Installation 
+### Prerequisites (Katalon Studio 9.6 or higher)
 1. Download the latest **([KatalonMaintenanceMode](https://github.com/fsalamah/KatalonMaintenanceMode/releases/download/release/KatalonMaintenanceMode-1.0.0.jar))** from releases and place it your project "Drivers" directory
 2. Replace all text instances of:
       ```
