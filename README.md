@@ -4,7 +4,7 @@
 
 Katalon Maintenance Mode enhances your testing experience by allowing you to:
 
-1. **Retry finding objects** and correct their locator during test execution without having to restart the test. This feature is available through `ObjectRepositoryExtensions`.
+1. **Update and test element locators while executing tests** and correct their locator during test execution without having to restart the test. This feature is available through `ObjectRepositoryExtensions`.
 2. **Re-execute specific test cases** during execution or jump between test cases using the MaintenanceTestSuiteExecutor.
 
 ---
